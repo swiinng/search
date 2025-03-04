@@ -1,0 +1,1 @@
+handles document generation and corpus management
